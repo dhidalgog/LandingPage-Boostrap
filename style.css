@@ -1,0 +1,58 @@
+.seccion1{
+	background-image: url(images/bg.jpeg);
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%
+}
+
+.logo1{
+	width: 200px;
+	height: 70px;
+}
+
+.transparent{
+	background-color: transparent;
+}
+
+.white_font{
+	color: white;
+}
+.text_center{
+	text-align: center;
+}
+
+.people{
+	width: 100%;
+}
+
+.img1{
+	height: 30px;
+}
+
+.grey{
+	background-color: #f8f8f8;
+}
+
+.footer{
+	background-color: black;
+	color: white;
+	padding:2% 0 2% 20%;
+}
+
+.title_size{
+	font-size: 18px;
+}
+
+.left{
+	margin-left: 70%;
+}
+
+.clear-fix{
+	clear: both;
+}
+
+.img2{
+	height: 300px;
+}
